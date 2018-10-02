@@ -1,0 +1,12 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Leonardo
+artifacts:
+  files:
+    - images/*
+    - styles/*
+    - index.html
+    - favicon.ico

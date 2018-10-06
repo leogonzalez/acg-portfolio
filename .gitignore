@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+babel.html
+.atom-live-server.json
+
+dist
